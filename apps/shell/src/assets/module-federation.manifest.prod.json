@@ -1,10 +1,10 @@
 {
-  "remotes-user": "https://5da6b02f76c9.ngrok.app",
-  "remotes-auth": "https://74d7b0911a1a.ngrok.app",
-  "remotes-chat": "https://c7f9b4e185cc.ngrok.app",
-  "remotes-cashbook": "https://6db6e40b6416.ngrok.app",
-  "remotes-product": "https://9077bebf2747.ngrok.app",
-  "remotes-analysis": "https://ff344019596a.ngrok.app",
-  "remotes-order": "https://26d57685e79e.ngrok.app",
-  "remotes-summary": "https://6cef9cad9bb2.ngrok.app"
+  "remotes-user": "https://e08f-171-235-190-225.ngrok-free.app",
+  "remotes-auth": "https://df39-171-235-190-225.ngrok-free.app",
+  "remotes-chat": "https://3713-171-235-190-225.ngrok-free.app",
+  "remotes-cashbook": "https://34ed-171-235-190-225.ngrok-free.app",
+  "remotes-product": "https://ca0e-171-235-190-225.ngrok-free.app",
+  "remotes-analysis": "https://73c4-171-235-190-225.ngrok-free.app",
+  "remotes-order": "https://f494-171-235-190-225.ngrok-free.app",
+  "remotes-summary": "https://2d74-171-235-190-225.ngrok-free.app"
 }
