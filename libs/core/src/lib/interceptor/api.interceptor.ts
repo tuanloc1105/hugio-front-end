@@ -17,7 +17,7 @@ export class ApiInterceptor implements HttpInterceptor {
     next: HttpHandler
   ): Observable<HttpEvent<unknown>> {
     const apiReq = request.clone({
-      url: `https://hugio.ngrok.app${request.url}`,
+      url: `https://polliwog-one-rarely.ngrok-free.app${request.url}`,
       body: {
         ...(request.body as object),
         trace: {
