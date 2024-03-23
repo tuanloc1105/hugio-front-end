@@ -56,6 +56,7 @@ pipeline {
                     sh "scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -r ./dist ae403@192.168.1.22:$TARGET_DIR"
                     sh "scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -r ./deploy ae403@192.168.1.22:$TARGET_DIR"
                     sh "scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no ./nginx.conf ae403@192.168.1.22:$TARGET_DIR"
+                    sh "scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no ./mime.types ae403@192.168.1.22:$TARGET_DIR"
                 }
             }
         }
